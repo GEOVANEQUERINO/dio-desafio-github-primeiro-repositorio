@@ -1,0 +1,10 @@
+Comandos via Terminal
+
+*****GIT
+Cd/ navegar nas pastas
+dir  listar pastas
+mkdir criar pasta
+cd ..  voltar um nivel
+cls  limpar tela
+del  delete
+rmdir comado para apagar repositorio
